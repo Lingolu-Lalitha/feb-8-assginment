@@ -1,0 +1,7 @@
+#convert kilometer in to centimeter
+a=int(input(" kilometer:"))
+centimeter=100000*a
+print(centimeter)
+OUTPUT:
+kilometer:6
+600000
