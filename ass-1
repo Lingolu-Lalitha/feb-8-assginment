@@ -1,0 +1,7 @@
+a=int(input("enter a:"))
+b=int(input("enterb:"))
+print(a<b,a>b,a>=b,a<=b,a==b,a!=b)
+OUTPUT:
+enter a: 6
+enterb: 6
+false false True True True flase
